@@ -1,3 +1,3 @@
 # Python Bootcamp 
-Here you can find mini python projects. 
+Here you can find python exercises and mini projects. 
 
