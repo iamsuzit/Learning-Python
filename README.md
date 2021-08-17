@@ -1,3 +1,3 @@
 # Python Bootcamp 
-Here you can find python practice modules and projects. 
+Here you can find python modules projects. 
 
