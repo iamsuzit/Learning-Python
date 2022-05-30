@@ -1,3 +1,2 @@
-# Python Bootcamp 
-Here you can find python exercises and mini projects. 
+# Python and Data Science
 
